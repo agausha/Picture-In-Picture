@@ -43,5 +43,6 @@ button {
   font-family: 'Barlow', sans-serif;
   font-size: 25px;
   color: white;
+  text-shadow: 0 2px 5px black;
 }
 /*# sourceMappingURL=main.css.map */
