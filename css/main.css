@@ -44,5 +44,7 @@ button {
   font-size: 25px;
   color: white;
   text-shadow: 0 2px 5px black;
+  background: -webkit-gradient(linear, left bottom, left top, from(dimgray), to(#575757));
+  background: linear-gradient(to top, dimgray, #575757);
 }
 /*# sourceMappingURL=main.css.map */
