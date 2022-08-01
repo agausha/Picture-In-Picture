@@ -14,5 +14,6 @@ html {
 
 body {
   font-family: 'Barlow', sans-serif;
+  min-height: 100vh;
 }
 /*# sourceMappingURL=main.css.map */
