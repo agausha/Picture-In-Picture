@@ -14,3 +14,7 @@ async function selectMediaStream() {
     console.log('Whoops, error here:', error);
   }
 }
+
+button.addEventListener('click', async () => {
+  
+});
