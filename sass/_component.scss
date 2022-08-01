@@ -16,4 +16,5 @@ button {
   text-shadow: 0 2px 5px $color-primary-dark;
   background: linear-gradient(to top, $color-primary-dim-gray, $color-primary-medium-dark-gray);
   border: 2px solid $color-primary-dark;
+  border-radius: 7px;
 }

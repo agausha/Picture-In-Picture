@@ -47,5 +47,6 @@ button {
   background: -webkit-gradient(linear, left bottom, left top, from(dimgray), to(#575757));
   background: linear-gradient(to top, dimgray, #575757);
   border: 2px solid black;
+  border-radius: 7px;
 }
 /*# sourceMappingURL=main.css.map */
