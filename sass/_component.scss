@@ -20,4 +20,6 @@ button {
   box-shadow: insert 0 20px 4px -19px $color-primary-light-yellow-green, 0 12px 12px 0 $color-primary-midnight-blue;
 }
 
-button:hover {}
+button:hover {
+  background: linear-gradient(to bottom, $color-primary-dim-gray, $color-primary-medium-dark-gray);
+}

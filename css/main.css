@@ -51,4 +51,9 @@ button {
   -webkit-box-shadow: insert 0 20px 4px -19px rgba(255, 255, 255, 0.7), 0 12px 12px 0 rgba(0, 0, 0, 0.3);
           box-shadow: insert 0 20px 4px -19px rgba(255, 255, 255, 0.7), 0 12px 12px 0 rgba(0, 0, 0, 0.3);
 }
+
+button:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(dimgray), to(#575757));
+  background: linear-gradient(to bottom, dimgray, #575757);
+}
 /*# sourceMappingURL=main.css.map */
