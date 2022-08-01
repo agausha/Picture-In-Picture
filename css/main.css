@@ -37,5 +37,6 @@ body {
 
 button {
   cursor: pointer;
+  outline: none;
 }
 /*# sourceMappingURL=main.css.map */
