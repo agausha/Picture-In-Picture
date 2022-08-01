@@ -26,4 +26,5 @@ button:hover {
 
 button:active {
   transform: translateY(3px);
+  box-shadow: 0 6px 6px 0 $color-primary-midnight-blue;
 }
