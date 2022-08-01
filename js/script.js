@@ -23,3 +23,6 @@ button.addEventListener('click', async () => {
   // Reset Button
   button.disabled = false;
 });
+
+// On Load 
+selectMediaStream();
