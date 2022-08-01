@@ -11,4 +11,8 @@ html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+body {
+  font-family: 'Barlow', sans-serif;
+}
 /*# sourceMappingURL=main.css.map */
