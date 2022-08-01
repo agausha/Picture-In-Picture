@@ -26,4 +26,8 @@ body {
           align-items: center;
   background: #262626;
 }
+
+.button-container {
+  border: 2px solid black;
+}
 /*# sourceMappingURL=main.css.map */
